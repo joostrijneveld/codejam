@@ -8,7 +8,7 @@ As readability is a main goal of the solutions presented here, I have refrained 
 |--------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |   **Q** |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |
 | **R1A** |         |         |         |         |         |    -    |    -    |    -    |
-| **R1B** |         |         |         |         |         |         |         |         |
+| **R1B** |    ✓    |    ✓    |    ✓    |         |         |         |    -    |    -    |
 | **R1C** |         |         |         |         |         |         |         |         |
 
 ### China New Grad Test 2014
