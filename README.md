@@ -13,6 +13,8 @@ As readability is a main goal of the solutions presented here, I have refrained 
 
 ### China New Grad Test 2014
 
+Note that the Practice Round is a subset of EuroPython 2013 and was thus omitted.
+
 |        | A-small | A-large | B-small | B-large | C-small | C-large | D-small | D-large | E-small | E-large |
 |-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | **RA** |    ✓    |    ✓    |         |         |         |         |         |         |         |         |
@@ -27,7 +29,7 @@ As readability is a main goal of the solutions presented here, I have refrained 
 | **R1B** |         |         |         |         |         |         |         |         |
 | **R1C** |         |         |         |         |         |         |         |         |
 
-### Europython 2013
+### EuroPython 2013
 
 | A-small | A-large | B-small | B-large | C-small | C-large | D-small | D-large |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
