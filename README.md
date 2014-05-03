@@ -11,6 +11,13 @@ As readability is a main goal of the solutions presented here, I have refrained 
 | **R1B** |         |         |         |         |         |         |         |         |
 | **R1C** |         |         |         |         |         |         |         |         |
 
+### China New Grad Test 2014
+
+|        | A-small | A-large | B-small | B-large | C-small | C-large | D-small | D-large | E-small | E-large |
+|-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| **RA** |    ✓    |    ✓    |         |         |         |         |         |         |         |         |
+| **RB** |         |         |         |         |         |         |         |         |         |         |
+
 ### Google Code Jam 2013
 
 |         | A-small | A-large | B-small | B-large | C-small | C-large | D-small | D-large |
@@ -19,7 +26,6 @@ As readability is a main goal of the solutions presented here, I have refrained 
 | **R1A** |         |         |         |         |         |         |         |         |
 | **R1B** |         |         |         |         |         |         |         |         |
 | **R1C** |         |         |         |         |         |         |         |         |
-
 
 ### Europython 2013
 
