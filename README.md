@@ -18,7 +18,7 @@ Note that the Practice Round is a subset of EuroPython 2013 and was thus omitted
 |        | A-small | A-large | B-small | B-large | C-small | C-large | D-small | D-large | E-small | E-large |
 |-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | **RA** |    ✓    |    ✓    |         |         |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |    ✓    |
-| **RB** |         |         |         |         |         |         |         |         |         |         |
+| **RB** |    ✓    |    ✓    |         |         |         |         |         |         |         |         |
 
 ### Google Code Jam 2013
 
