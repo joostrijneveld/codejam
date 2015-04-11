@@ -2,6 +2,15 @@ In this repository, I collect my solutions to the Google Code Jam problems. Thes
 
 As readability is a main goal of the solutions presented here, I have refrained from (micro-)optimisations that have a negative impact on readability and do not benefit the running time or complexity significantly.
 
+### Google Code Jam 2015
+
+|         | A-small | A-large | B-small | B-large | C-small | C-large | D-small | D-large |
+|--------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|   **Q** |    ✓    |    ✓    |    ✓    |         |         |         |    ✓    |         |
+| **R1A** |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |
+| **R1B** |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |
+| **R1C** |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |
+
 ### Google Code Jam 2014
 
 |         | A-small | A-large | B-small | B-large | C-small | C-large | D-small | D-large |
