@@ -7,7 +7,7 @@ As readability is a main goal of the solutions presented here, I have refrained 
 |         | A-small | A-large | B-small | B-large | C-small | C-large | D-small | D-large |
 |--------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |   **Q** |    ✓    |    ✓    |    ✓    |         |         |         |    ✓    |         |
-| **R1A** |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |
+| **R1A** |    ✓    |    ✓    |    ✓    |         |         |         |    -    |    -    |
 | **R1B** |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |
 | **R1C** |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |    ?    |
 
